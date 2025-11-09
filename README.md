@@ -72,6 +72,11 @@ Comunicação entre front-end e back-end via API REST;
 Manipulação de dados com MongoDB e Mongoose;
 Boas práticas em arquitetura de aplicações web.
 
+ 📦 Acesso ao Projeto Completo
+
+Devido ao tamanho dos arquivos e à limitação de upload do GitHub, o projeto completo está disponível no Google Drive:
+https://drive.google.com/file/d/11p5AnSVfm13QZ0C2RAIXPpeM4WCAaw-t/view?usp=drive_link
+
 👩‍💻 Desenvolvido por
 Daniela Giovana
 💼 Técnica em Desenvolvimento de Sistemas
